@@ -10,4 +10,5 @@ Indicating that you lose, the circuit playground will turn all the LEDs into a t
 
 
 Inputs: Mimicking a car noise or blowing, Movement (left and right),
+
 Outputs: LED car movement, LED patterns (rainbow and confetti), consistent game winning sound (or loosing sound)
