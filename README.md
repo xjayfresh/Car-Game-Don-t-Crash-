@@ -11,6 +11,6 @@ Indicating that you won, the circuit playground will turn all the LEDs into a ra
 
 Indicating that you lose, the circuit playground will turn all the LEDs into a twinkle pattern (singular red dots) along with having a lower consistent pitch sound.
 
-Inputs: Mimicking a car noise or blowing, Movement (left and right),
+Inputs: Mimicking a car noise or blowing, Movement (turning the car left and right)
 
 Outputs: LED car movement, LED patterns (rainbow and confetti), consistent game winning sound (or loosing sound)
